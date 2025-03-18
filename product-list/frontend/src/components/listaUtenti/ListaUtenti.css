@@ -1,0 +1,10 @@
+/* CSS */
+.container-margin {
+    margin-left: 0; /* Imposta il margin default a 0 */
+}
+
+@media (max-width: 768px) {
+    .container-margin {
+        margin-left: 15%; /* Applica il margin-left solo quando la larghezza della finestra è <= 768px */
+    }
+}

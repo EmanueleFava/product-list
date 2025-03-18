@@ -1,0 +1,24 @@
+.form-login {
+    padding: 30px;
+    width: 100%;
+    height: 370px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+form h1 {
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.btn-form {
+    background-color: #4d5aea;
+    color: white;    
+    border: none;       
+    border-radius: 5px;
+    width: 100%;          
+    padding: 12px;          
+}
+
+.btn-form:hover{
+    background-color: #4354b6;
+}

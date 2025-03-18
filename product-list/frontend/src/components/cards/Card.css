@@ -1,0 +1,12 @@
+.card-custom{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: none;
+}
+
+.card-custom:hover {
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.card-link {
+    text-decoration: none; 
+}
